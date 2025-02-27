@@ -43,10 +43,8 @@ python security_scanner.py
 Masukkan kode admin: ******
 Masukkan URL situs Anda: http://example.com
 
-🔍  Hasil Analisis Keamanan
-==================================================
+🔍  Hasil Analisis Keamanan :
+
 ⚠️  Situs tidak menggunakan HTTPS.
 ⚠️  Header keamanan yang hilang: Content-Security-Policy, X-Frame-Options
 🛡️  Skor Keamanan: 70%
-==================================================
-
