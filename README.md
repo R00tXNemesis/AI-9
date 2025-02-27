@@ -8,7 +8,7 @@ Web Security Scanner adalah alat berbasis Python untuk menganalisis keamanan sit
 
 🎯 Fitur Utama
 
-✅ Verifikasi Admin – Hanya dapat dijalankan dengan kode admin (admin123).
+✅ Verifikasi Admin – Hanya dapat dijalankan dengan kode admin.
 ✅ Analisis HTTPS – Memeriksa apakah situs menggunakan protokol aman.
 ✅ Pemeriksaan Header Keamanan – Mendeteksi header penting yang hilang.
 ✅ Deteksi Formulir Tidak Aman – Menemukan formulir dengan metode pengiriman data tidak terenkripsi.
